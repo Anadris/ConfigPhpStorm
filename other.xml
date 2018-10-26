@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Downloads/Project.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.8.0/bin/node">
+      <version-cache version="10.8.0" last-modified="1533139691000" />
+    </local-interpreter>
+  </component>
+</application>
