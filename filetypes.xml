@@ -5,6 +5,7 @@
       <mapping pattern="_ml-palette" type="SCSS" />
       <mapping pattern="storyline-name" type="TypeScript" />
       <mapping pattern="user" type="TypeScript" />
+      <mapping pattern="episode-statistiques" type="TypeScript" />
       <mapping pattern="pseudo" type="TypeScript" />
     </extensionMap>
   </component>
