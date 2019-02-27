@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="post-update" type="PLAIN_TEXT" />
       <mapping pattern="keyboard-input.ts" type="PLAIN_TEXT" />
       <mapping pattern="_ml-palette" type="SCSS" />
       <mapping pattern="storyline-name" type="TypeScript" />
