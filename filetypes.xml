@@ -7,6 +7,7 @@
       <mapping pattern="storyline-name" type="TypeScript" />
       <mapping pattern="user" type="TypeScript" />
       <mapping pattern="episode-statistiques" type="TypeScript" />
+      <mapping pattern="storyline-currencies" type="TypeScript" />
       <mapping pattern="pseudo" type="TypeScript" />
       <mapping pattern="npc-talker" type="TypeScript" />
     </extensionMap>
