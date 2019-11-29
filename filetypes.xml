@@ -1,22 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".npmrc.swo" type="PLAIN_TEXT" />
       <mapping pattern="post-update" type="PLAIN_TEXT" />
-      <mapping pattern="keyboard-input.ts" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc.swo" type="PLAIN_TEXT" />
       <mapping pattern="bot-commands.js" type="PLAIN_TEXT" />
+      <mapping pattern="keyboard-input.ts" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="_ml-palette" type="SCSS" />
-      <mapping pattern="episode-statistiques" type="TypeScript" />
       <mapping pattern="user" type="TypeScript" />
-      <mapping pattern="storyline-name" type="TypeScript" />
-      <mapping pattern="storyline-currencies" type="TypeScript" />
-      <mapping pattern="pseudo" type="TypeScript" />
       <mapping pattern="npc-talker" type="TypeScript" />
+      <mapping pattern="storyline-name" type="TypeScript" />
+      <mapping pattern="pseudo" type="TypeScript" />
+      <mapping pattern="episode-statistiques" type="TypeScript" />
+      <mapping pattern="storyline-currencies" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
